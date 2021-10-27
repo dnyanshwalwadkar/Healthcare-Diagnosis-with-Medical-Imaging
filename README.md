@@ -28,9 +28,7 @@ However, future of AI-powered medical imaging is bright and new advancements hap
 Medical imaging is one of the AI-powered solutions that is on an uptrend with the COVID-19 pandemic. Due to the rapid increase in the number of patients, the analysis and interpretation of patients’ chest scan results became a problem. A Chinese company, Huiying Medical has developed an AI-powered imaging diagnostic solution to detect the virus in the early stage with 96% accuracy. 
 Artificial Intelligence is revolutionizing Healthcare in many
 areas such as:
- 
- # In Our Project 
- Disease Diagnosis with medical imaging
+Disease Diagnosis with medical imaging
 Surgical Robots
 * Maximizing Hospital Efficiency
 * AI healthcare market is expected to reach $45.2 billion USD
@@ -38,6 +36,9 @@ by 2026 from the current valuation of $4.9 billion USD.
 * Deep learning has been proven to be superior in detecting
 diseases from X-rays, MRI scans and CT scans which could
 significantly improve the speed and accuracy of diagnosis.
+ 
+ # In Our Project 
+ 
 
 # Project Architecture
 
